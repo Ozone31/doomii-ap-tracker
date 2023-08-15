@@ -1,0 +1,34 @@
+﻿//sets the layout for the broadcast view
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "1,2",
+            "rows": [
+              [ "chainsaw", "shotgun", "chaingun", "rocketlauncher", "plasmagun", "bfg9000", "supershotgun" ],
+              [ "m01_access", "m02_access", "m03_access", "m04_access", "m05_access", "m06_access", "m07_access", "m08_access" ],
+              [ "", "m02_blue", "m03_blue", "m04_blue", "m05_blue", "m06_blue", "", "m08_yellow" ],
+              [ "", "m02_red", "m03_red", "m04_yellow", "m05_yellow", "m06_yellow", "", "m08_red" ],
+              [ "", "", "", "m04_red", "m05_red", "m06_red" ],
+              [ "m09_access", "m10_access", "m11_access", "m12_access", "m13_access", "m14_access", "m15_access", "m16_access" ],
+              [ "m09_blue", "m10_blue", "m11_blue", "m12_blue", "m13_blue", "m14_blue", "m15_blue", "m16_blue" ],
+              [ "m09_yellow", "m10_yellow", "m11_red", "m12_yellow", "m13_yellow", "m14_red", "m15_yellow", "m16_red" ],
+              [ "", "", "", "", "m13_red", "", "m15_red" ],
+              [ "m17_access", "m18_access", "m19_access", "m20_access", "m21_access", "m22_access", "m23_access", "m24_access" ],
+              [ "m17_blue", "m18_blue", "m19_blue", "", "m21_blue", "m22_blue", "m23_yellow", "m24_blue" ],
+              [ "m17_yellow", "m18_yellow", "m19_yellow", "", "m21_yellow", "m22_red", "", "m24_red" ],
+              [ "m17_red", "", "m19_red", "", "m21_red" ],
+              [ "m25_access", "m26_access", "m27_access", "m28_access", "m29_access", "m30_access", "m31_access", "m32_access" ],
+              [ "m25_blue", "m26_blue", "m27_blue", "m28_yellow" ],
+              [ "",  "m26_yellow", "m27_yellow", "m28_red" ],
+              [ "", "m26_red", "m27_red" ]
+            ]
+          }
+        ]
+    }
+}

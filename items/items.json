@@ -1,0 +1,855 @@
+[
+  // WEAPONS
+  {
+    "name": "Chainsaw",
+    "type": "toggle",
+    "img": "/images/items/chainsaw.png",
+    "codes": "chainsaw"
+  },
+  {
+    "name": "Shotgun",
+    "type": "toggle",
+    "img": "/images/items/shotgun.png",
+    "codes": "shotgun"
+  },
+  {
+    "name": "Chaingun",
+    "type": "toggle",
+    "img": "/images/items/chaingun.png",
+    "codes": "chaingun"
+  },
+  {
+    "name": "Rocket Launcher",
+    "type": "toggle",
+    "img": "/images/items/rocketlauncher.png",
+    "codes": "rocketlauncher"
+  },
+  {
+    "name": "Plasma Gun",
+    "type": "toggle",
+    "img": "/images/items/plasmagun.png",
+    "codes": "plasmagun"
+  },
+  {
+    "name": "BFG9000",
+    "type": "toggle",
+    "img": "/images/items/bfg9000.png",
+    "codes": "bfg9000"
+  },
+  {
+    "name": "Super Shotgun",
+    "type": "toggle",
+    "img": "/images/items/supershotgun.png",
+    "codes": "supershotgun"
+  },
+
+  // MAP ITEMS
+  {
+    "name": "Entryway (MAP01) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m01_complete"
+  },
+  {
+    "name": "Underhalls (MAP02) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m02.png",
+    "codes": "m02_blue"
+  },
+  {
+    "name": "Underhalls (MAP02) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m02.png",
+    "codes": "m02_red"
+  },
+  {
+    "name": "Underhalls (MAP02) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m02_complete"
+  },
+  {
+    "name": "The Gantlet (MAP03) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m03.png",
+    "codes": "m03_blue"
+  },
+  {
+    "name": "The Gantlet (MAP03) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m03.png",
+    "codes": "m03_red"
+  },
+  {
+    "name": "The Gantlet (MAP03) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m03_complete"
+  },
+  {
+    "name": "The Focus (MAP04) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m04.png",
+    "codes": "m04_blue"
+  },
+  {
+    "name": "The Focus (MAP04) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m04.png",
+    "codes": "m04_yellow"
+  },
+  {
+    "name": "The Focus (MAP04) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m04.png",
+    "codes": "m04_red"
+  },
+  {
+    "name": "The Focus (MAP04) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m04_complete"
+  },
+  {
+    "name": "The Waste Tunnels (MAP05) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m05.png",
+    "codes": "m05_blue"
+  },
+  {
+    "name": "The Waste Tunnels (MAP05) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m05.png",
+    "codes": "m05_yellow"
+  },
+  {
+    "name": "The Waste Tunnels (MAP05) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m05.png",
+    "codes": "m05_red"
+  },
+  {
+    "name": "The Waste Tunnels (MAP05) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m05_complete"
+  },
+  {
+    "name": "The Crusher (MAP06) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m06.png",
+    "codes": "m06_blue"
+  },
+  {
+    "name": "The Crusher (MAP06) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m06.png",
+    "codes": "m06_yellow"
+  },
+  {
+    "name": "The Crusher (MAP06) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m06.png",
+    "codes": "m06_red"
+  },
+  {
+    "name": "The Crusher (MAP06) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m06_complete"
+  },
+  {
+    "name": "Dead Simple (MAP07) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m07_complete"
+  },
+  {
+    "name": "Tricks and Traps (MAP08) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m08.png",
+    "codes": "m08_yellow"
+  },
+  {
+    "name": "Tricks and Traps (MAP08) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m08.png",
+    "codes": "m08_red"
+  },
+  {
+    "name": "Tricks and Traps (MAP08) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m08_complete"
+  },
+  {
+    "name": "The Pit (MAP09) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m09.png",
+    "codes": "m09_blue"
+  },
+  {
+    "name": "The Pit (MAP09) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m09.png",
+    "codes": "m09_yellow"
+  },
+  {
+    "name": "The Pit (MAP09) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m09_complete"
+  },
+  {
+    "name": "Refueling Base (MAP10) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m10.png",
+    "codes": "m10_blue"
+  },
+  {
+    "name": "Refueling Base (MAP10) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m10.png",
+    "codes": "m10_yellow"
+  },
+  {
+    "name": "Refueling Base (MAP10) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m10_complete"
+  },
+  {
+    "name": "Circle of Death (MAP11) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m11.png",
+    "codes": "m11_blue"
+  },
+  {
+    "name": "Circle of Death (MAP11) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m11.png",
+    "codes": "m11_red"
+  },
+  {
+    "name": "Circle of Death (MAP11) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m11_complete"
+  },
+  {
+    "name": "The Factory (MAP12) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m12.png",
+    "codes": "m12_blue"
+  },
+  {
+    "name": "The Factory (MAP12) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m12.png",
+    "codes": "m12_yellow"
+  },
+  {
+    "name": "The Factory (MAP12) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m12_complete"
+  },
+  {
+    "name": "Downtown (MAP13) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m13.png",
+    "codes": "m13_blue"
+  },
+  {
+    "name": "Downtown (MAP13) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m13.png",
+    "codes": "m13_yellow"
+  },
+  {
+    "name": "Downtown (MAP13) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m13.png",
+    "codes": "m13_red"
+  },
+  {
+    "name": "Downtown (MAP13) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m13_complete"
+  },
+  {
+    "name": "The Inmost Dens (MAP14) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m14.png",
+    "codes": "m14_blue"
+  },
+  {
+    "name": "The Inmost Dens (MAP14) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m14.png",
+    "codes": "m14_red"
+  },
+  {
+    "name": "The Inmost Dens (MAP14) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m14_complete"
+  },
+  {
+    "name": "Industrial Zone (MAP15) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m15.png",
+    "codes": "m15_blue"
+  },
+  {
+    "name": "Industrial Zone (MAP15) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m15.png",
+    "codes": "m15_yellow"
+  },
+  {
+    "name": "Industrial Zone (MAP15) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m15.png",
+    "codes": "m15_red"
+  },
+  {
+    "name": "Industrial Zone (MAP15) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m15_complete"
+  },
+  {
+    "name": "Suburbs (MAP16) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m16.png",
+    "codes": "m16_blue"
+  },
+  {
+    "name": "Suburbs (MAP16) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m16.png",
+    "codes": "m16_red"
+  },
+  {
+    "name": "Suburbs (MAP16) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m16_complete"
+  },
+  {
+    "name": "Tenements (MAP17) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m17.png",
+    "codes": "m17_blue"
+  },
+  {
+    "name": "Tenements (MAP17) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m17.png",
+    "codes": "m17_yellow"
+  },
+  {
+    "name": "Tenements (MAP17) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m17.png",
+    "codes": "m17_red"
+  },
+  {
+    "name": "Tenements (MAP17) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m17_complete"
+  },
+  {
+    "name": "The Courtyard (MAP18) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m18.png",
+    "codes": "m18_blue"
+  },
+  {
+    "name": "The Courtyard (MAP18) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m18.png",
+    "codes": "m18_yellow"
+  },
+  {
+    "name": "The Courtyard (MAP18) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m18_complete"
+  },
+  {
+    "name": "The Citadel (MAP19) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m19.png",
+    "codes": "m19_blue"
+  },
+  {
+    "name": "The Citadel (MAP19) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m19.png",
+    "codes": "m19_yellow"
+  },
+  {
+    "name": "The Citadel (MAP19) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m19.png",
+    "codes": "m19_red"
+  },
+  {
+    "name": "The Citadel (MAP19) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m19_complete"
+  },
+  {
+    "name": "Gotcha! (MAP20) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m20_complete"
+  },
+  {
+    "name": "Nirvana (MAP21) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m21.png",
+    "codes": "m21_blue"
+  },
+  {
+    "name": "Nirvana (MAP21) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m21.png",
+    "codes": "m21_yellow"
+  },
+  {
+    "name": "Nirvana (MAP21) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m21.png",
+    "codes": "m21_red"
+  },
+  {
+    "name": "Nirvana (MAP21) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m21_complete"
+  },
+  {
+    "name": "The Catacombs (MAP22) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m22.png",
+    "codes": "m22_blue"
+  },
+  {
+    "name": "The Catacombs (MAP22) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m22.png",
+    "codes": "m22_red"
+  },
+  {
+    "name": "The Catacombs (MAP22) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m22_complete"
+  },
+  {
+    "name": "Barrels o Fun (MAP23) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m23.png",
+    "codes": "m23_yellow"
+  },
+  {
+    "name": "Barrels o Fun (MAP23) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m23_complete"
+  },
+  {
+    "name": "The Chasm (MAP24) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m24.png",
+    "codes": "m24_blue"
+  },
+  {
+    "name": "The Chasm (MAP24) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m24.png",
+    "codes": "m24_red"
+  },
+  {
+    "name": "The Chasm (MAP24) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m24_complete"
+  },
+  {
+    "name": "Bloodfalls (MAP25) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m25.png",
+    "codes": "m25_blue"
+  },
+  {
+    "name": "Bloodfalls (MAP25) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m25_complete"
+  },
+  {
+    "name": "The Abandoned Mines (MAP26) - Blue keycard",
+    "type": "toggle",
+    "img": "/images/items/bluekeycard_m26.png",
+    "codes": "m26_blue"
+  },
+  {
+    "name": "The Abandoned Mines (MAP26) - Yellow keycard",
+    "type": "toggle",
+    "img": "/images/items/yellowkeycard_m26.png",
+    "codes": "m26_yellow"
+  },
+  {
+    "name": "The Abandoned Mines (MAP26) - Red keycard",
+    "type": "toggle",
+    "img": "/images/items/redkeycard_m26.png",
+    "codes": "m26_red"
+  },
+  {
+    "name": "The Abandoned Mines (MAP26) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m26_complete"
+  },
+  {
+    "name": "Monster Condo (MAP27) - Blue skull key",
+    "type": "toggle",
+    "img": "/images/items/blueskullkey_m27.png",
+    "codes": "m27_blue"
+  },
+  {
+    "name": "Monster Condo (MAP27) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m27.png",
+    "codes": "m27_yellow"
+  },
+  {
+    "name": "Monster Condo (MAP27) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m27.png",
+    "codes": "m27_red"
+  },
+  {
+    "name": "Monster Condo (MAP27) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m27_complete"
+  },
+  {
+    "name": "The Spirit World (MAP28) - Yellow skull key",
+    "type": "toggle",
+    "img": "/images/items/yellowskullkey_m28.png",
+    "codes": "m28_yellow"
+  },
+  {
+    "name": "The Spirit World (MAP28) - Red skull key",
+    "type": "toggle",
+    "img": "/images/items/redskullkey_m28.png",
+    "codes": "m28_red"
+  },
+  {
+    "name": "The Spirit World (MAP28) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m28_complete"
+  },
+  {
+    "name": "The Living End (MAP29) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m29_complete"
+  },
+  {
+    "name": "Icon of Sin (MAP30) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m30_complete"
+  },
+  {
+    "name": "Wolfenstein2 (MAP31) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m31_complete"
+  },
+  {
+    "name": "Grosse2 (MAP32) - Complete",
+    "type": "toggle",
+    "img": "/images/items/levelcomplete.png",
+    "codes": "m32_complete"
+  },
+
+  // MAP ACCESS
+  {
+    "name": "Entryway (MAP01)",
+    "type": "toggle",
+    "img": "/images/levels/m01.png",
+    "codes": "m01_access",
+    "allow_disabled": false
+  },
+  {
+    "name": "Underhalls (MAP02)",
+    "type": "toggle",
+    "img": "/images/levels/m02.png",
+    "codes": "m02_access"
+  },
+  {
+    "name": "The Gantlet (MAP03)",
+    "type": "toggle",
+    "img": "/images/levels/m03.png",
+    "codes": "m03_access"
+  },
+  {
+    "name": "The Focus (MAP04)",
+    "type": "toggle",
+    "img": "/images/levels/m04.png",
+    "codes": "m04_access"
+  },
+  {
+    "name": "The Waste Tunnels (MAP05)",
+    "type": "toggle",
+    "img": "/images/levels/m05.png",
+    "codes": "m05_access"
+  },
+  {
+    "name": "The Crusher (MAP06)",
+    "type": "toggle",
+    "img": "/images/levels/m06.png",
+    "codes": "m06_access"
+  },
+  {
+    "name": "Dead Simple (MAP07)",
+    "type": "toggle",
+    "img": "/images/levels/m07.png",
+    "codes": "m07_access"
+  },
+  {
+    "name": "Tricks and Traps (MAP08)",
+    "type": "toggle",
+    "img": "/images/levels/m08.png",
+    "codes": "m08_access"
+  },
+  {
+    "name": "The Pit (MAP09)",
+    "type": "toggle",
+    "img": "/images/levels/m09.png",
+    "codes": "m09_access"
+  },
+  {
+    "name": "Refueling Base (MAP10)",
+    "type": "toggle",
+    "img": "/images/levels/m10.png",
+    "codes": "m10_access"
+  },
+  {
+    "name": "Circle of Death (MAP11)",
+    "type": "toggle",
+    "img": "/images/levels/m11.png",
+    "codes": "m11_access"
+  },
+  {
+    "name": "The Factory (MAP12)",
+    "type": "toggle",
+    "img": "/images/levels/m12.png",
+    "codes": "m12_access"
+  },
+  {
+    "name": "Downtown (MAP13)",
+    "type": "toggle",
+    "img": "/images/levels/m13.png",
+    "codes": "m13_access"
+  },
+  {
+    "name": "The Inmost Dens (MAP14)",
+    "type": "toggle",
+    "img": "/images/levels/m14.png",
+    "codes": "m14_access"
+  },
+  {
+    "name": "Industrial Zone (MAP15)",
+    "type": "toggle",
+    "img": "/images/levels/m15.png",
+    "codes": "m15_access"
+  },
+  {
+    "name": "Suburbs (MAP16)",
+    "type": "toggle",
+    "img": "/images/levels/m16.png",
+    "codes": "m16_access"
+  },
+  {
+    "name": "Tenements (MAP17)",
+    "type": "toggle",
+    "img": "/images/levels/m17.png",
+    "codes": "m17_access"
+  },
+  {
+    "name": "The Courtyard (MAP18)",
+    "type": "toggle",
+    "img": "/images/levels/m18.png",
+    "codes": "m18_access"
+  },
+  {
+    "name": "The Citadel (MAP19)",
+    "type": "toggle",
+    "img": "/images/levels/m19.png",
+    "codes": "m19_access"
+  },
+  {
+    "name": "Gotcha! (MAP20)",
+    "type": "toggle",
+    "img": "/images/levels/m20.png",
+    "codes": "m20_access"
+  },
+  {
+    "name": "Nirvana (MAP21)",
+    "type": "toggle",
+    "img": "/images/levels/m21.png",
+    "codes": "m21_access"
+  },
+  {
+    "name": "The Catacombs (MAP22)",
+    "type": "toggle",
+    "img": "/images/levels/m22.png",
+    "codes": "m22_access"
+  },
+  {
+    "name": "Barrels o Fun (MAP23)",
+    "type": "toggle",
+    "img": "/images/levels/m23.png",
+    "codes": "m23_access"
+  },
+  {
+    "name": "The Chasm (MAP24)",
+    "type": "toggle",
+    "img": "/images/levels/m24.png",
+    "codes": "m24_access"
+  },
+  {
+    "name": "Bloodfalls (MAP25)",
+    "type": "toggle",
+    "img": "/images/levels/m25.png",
+    "codes": "m25_access"
+  },
+  {
+    "name": "The Abandoned Mines (MAP26)",
+    "type": "toggle",
+    "img": "/images/levels/m26.png",
+    "codes": "m26_access"
+  },
+  {
+    "name": "Monster Condo (MAP27)",
+    "type": "toggle",
+    "img": "/images/levels/m27.png",
+    "codes": "m27_access"
+  },
+  {
+    "name": "The Spirit World (MAP28)",
+    "type": "toggle",
+    "img": "/images/levels/m28.png",
+    "codes": "m28_access"
+  },
+  {
+    "name": "The Living End (MAP29)",
+    "type": "toggle",
+    "img": "/images/levels/m29.png",
+    "codes": "m29_access"
+  },
+  {
+    "name": "Icon of Sin (MAP30)",
+    "type": "toggle",
+    "img": "/images/levels/m30.png",
+    "codes": "m30_access"
+  },
+  {
+    "name": "Wolfenstein2 (MAP31)",
+    "type": "toggle",
+    "img": "/images/levels/m31.png",
+    "codes": "m31_access"
+  },
+  {
+    "name": "Grosse2 (MAP32)",
+    "type": "toggle",
+    "img": "/images/levels/m32.png",
+    "codes": "m32_access"
+  },
+
+  // SETTINGS
+  {
+    "name": "Death Logic",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/deathlogic_off.png",
+        "name": "Death Logic - Off",
+        "codes": "deathlogic",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/settings/deathlogic_on.png",
+        "name": "Death Logic - On",
+        "codes": "deathlogic"
+      }
+    ]
+  },
+  {
+    "name": "Pro",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/pro_off.png",
+        "name": "Pro - Off",
+        "codes": "promoves",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/settings/pro_on.png",
+        "name": "Pro - On",
+        "codes": "promoves"
+      }
+    ]
+  },
+  {
+    "name": "Difficulty",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/difficulty_baby.png",
+        "name": "Difficulty - Baby",
+        "codes": "difficulty,difficulty_b"
+      },
+      {
+        "img": "images/settings/difficulty_easy.png",
+        "name": "Difficulty - Easy",
+        "codes": "difficulty,difficulty_e"
+      },
+      {
+        "img": "images/settings/difficulty_medium.png",
+        "name": "Difficulty - Medium",
+        "codes": "difficulty,difficulty_m"
+      },
+      {
+        "img": "images/settings/difficulty_hard.png",
+        "name": "Difficulty - Hard",
+        "codes": "difficulty,difficulty_h"
+      },
+      {
+        "img": "images/settings/difficulty_nightmare.png",
+        "name": "Difficulty - Nightmare",
+        "codes": "difficulty,difficulty_n"
+      }
+    ]
+  }
+]

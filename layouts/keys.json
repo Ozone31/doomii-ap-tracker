@@ -1,0 +1,114 @@
+{
+    "keys_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "item_h_alignment": "center",
+                        "h_alignment": "left",
+                        "rows": [   
+                            [
+                                "m02_blue",
+                                "m03_blue",
+                                "m04_blue",
+                                "m05_blue",
+                                "m06_blue",
+                                "m08_yellow",
+                                "m09_blue",
+                                "m10_blue",
+                                "m11_blue",
+                                "m12_blue",
+                                "m13_blue",
+                                "m14_blue",
+                                "m15_blue"
+                            ],           
+                            [
+                                "m02_red",                        
+                                "m03_red",
+                                "m04_yellow",
+                                "m05_yellow",
+                                "m06_yellow",
+                                "m08_red",
+                                "m09_yellow",
+                                "m10_yellow",
+                                "m11_red",
+                                "m12_yellow",
+                                "m13_yellow",
+                                "m14_red",
+                                "m15_yellow"
+                            ],
+                            [
+                                "",
+                                "",
+                                "m04_red",
+                                "m05_red",
+                                "m06_red",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "m13_red",
+                                "",
+                                "m15_red"
+                            ],
+                            [
+                                "m16_blue",
+                                "m17_blue",
+                                "m18_blue",
+                                "m19_blue",
+                                "m21_blue",
+                                "m22_blue",
+                                "m23_yellow",
+                                "m24_blue",
+                                "m25_blue",
+                                "m26_blue",
+                                "m27_blue",
+                                "m28_yellow",
+                                ""
+                            ],
+                            [
+                                "m16_red",
+                                "m17_yellow",
+                                "m18_yellow",
+                                "m19_yellow",
+                                "m21_yellow",
+                                "m22_red",
+                                "",
+                                "m24_red",
+                                "",
+                                "m26_yellow",
+                                "m27_yellow",
+                                "m28_red",
+                                ""
+                            ],
+                            [
+                                "",
+                                "m17_red",
+                                "",
+                                "m19_red",
+                                "m21_red",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "m26_red",
+                                "m27_red",
+                                "",
+                                ""
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
