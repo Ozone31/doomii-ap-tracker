@@ -2337,5 +2337,92 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Entryway (MAP01)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Entryway (MAP01)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m01",
+            "x": 410,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Entryway (MAP01)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m01",
+            "x": 355,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Entryway (MAP01)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m01",
+            "x": 460,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Entryway (MAP01)/Chainsaw",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m01",
+            "x": 184,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Entryway (MAP01)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m01",
+            "x": 494,
+            "y": 323
+          }
+        ]
+      }
+    ]
   }
 ]
