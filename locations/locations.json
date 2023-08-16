@@ -2781,5 +2781,220 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Waste Tunnels (MAP05)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 891,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 191,
+            "y": 83
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 313,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 925,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 415,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 724,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 90,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Supercharge 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 191,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 191,
+            "y": 98
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 448,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Blue Keycard",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 395,
+            "y": 395
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Yellow Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 202,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Waste Tunnels (MAP05)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m05",
+            "x": 202,
+            "y": 670
+          }
+        ]
+      }
+    ]
   }
 ]
