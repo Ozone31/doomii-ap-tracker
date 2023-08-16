@@ -2424,5 +2424,92 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Underhalls (MAP02)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Underhalls (MAP02)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m02",
+            "x": 435,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Underhalls (MAP02)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m02",
+            "x": 734,
+            "y": 369
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Underhalls (MAP02)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m02",
+            "x": 383,
+            "y": 705
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Underhalls (MAP02)/Blue Keycard",
+            "name": "Required Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m02",
+            "x": 340,
+            "y": 596
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Underhalls (MAP02)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m02",
+            "x": 280,
+            "y": 177
+          }
+        ]
+      }
+    ]
   }
 ]
