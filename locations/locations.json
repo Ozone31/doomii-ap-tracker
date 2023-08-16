@@ -2694,5 +2694,92 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Focus (MAP04)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Focus (MAP04)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m04",
+            "x": 642,
+            "y": 509
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Focus (MAP04)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m04",
+            "x": 545,
+            "y": 756
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Focus (MAP04)/Red Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m04",
+            "x": 840,
+            "y": 172
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Focus (MAP04)/Yellow Keycard",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m04",
+            "x": 235,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Focus (MAP04)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m04",
+            "x": 15,
+            "y": 290
+          }
+        ]
+      }
+    ]
   }
 ]
