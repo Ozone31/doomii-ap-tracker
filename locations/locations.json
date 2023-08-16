@@ -2511,5 +2511,188 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Gantlet (MAP03)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 187,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 119,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 615,
+            "y": 91
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 844,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 962,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 535,
+            "y": 428
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 579,
+            "y": 411
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 625,
+            "y": 428
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Backpack",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 373,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Red Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 317,
+            "y": 508
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m03",
+            "x": 317,
+            "y": 690
+          }
+        ]
+      }
+    ]
   }
 ]
