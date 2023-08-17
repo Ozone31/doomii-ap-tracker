@@ -4686,5 +4686,268 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Factory (MAP12)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 590,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 208,
+            "y": 720
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 250,
+            "y": 708
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 273,
+            "y": 509
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 153,
+            "y": 626
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Supercharge 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 285,
+            "y": 497
+          }
+        ]
+      },
+      {
+        "name": "Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 436,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 436,
+            "y": 116
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Berserk 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 395,
+            "y": 396
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Yellow Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 529,
+            "y": 591
+          }
+        ]
+      },
+      {
+        "name": "Berserk 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Berserk 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 329,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 411,
+            "y": 468
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Armor",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 227,
+            "y": 577
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Backpack",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 228,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/BFG9000",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 126,
+            "y": 382
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Factory (MAP12)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m12",
+            "x": 340,
+            "y": 164
+          }
+        ]
+      }
+    ]
   }
 ]
