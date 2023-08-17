@@ -2996,5 +2996,252 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Crusher (MAP06)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 95,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 202,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 266,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Blue Keycard 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 266,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Blue Keycard 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 430,
+            "y": 540
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 593,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 478,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Red Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 400,
+            "y": 246
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Super Shotgun",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 495,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Mega Armor",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 232,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Rocket Launcher",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 232,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Backpack",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 265,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Megasphere 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Megasphere 2",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 265,
+            "y": 91
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Yellow Keycard",
+            "name": "Requires Blue and Red Keycards"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 1006,
+            "y": 676
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Crusher (MAP06)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m06",
+            "x": 655,
+            "y": 538
+          }
+        ]
+      }
+    ]
   }
 ]
