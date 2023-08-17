@@ -3442,5 +3442,396 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tricks and Traps (MAP08)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 308,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 491,
+            "y": 386
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 545,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 666,
+            "y": 554
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 438,
+            "y": 730
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 248,
+            "y": 710
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 277,
+            "y": 735
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 264,
+            "y": 748
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 133,
+            "y": 710
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 449,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 533,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Invulnerability 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 276,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Invulnerability 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 263,
+            "y": 710
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 640,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Supercharge 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 491,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Backpack 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Backpack 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 452,
+            "y": 23
+          }
+        ]
+      },
+      {
+        "name": "Backpack 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Backpack 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 530,
+            "y": 23
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Chainsaw",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 73,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 17,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Backpack 5",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Backpack 5",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 491,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 697,
+            "y": 554
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Red Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 107,
+            "y": 462
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 5",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Invulnerability 5",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 197,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tricks and Traps (MAP08)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m08",
+            "x": 172,
+            "y": 485
+          }
+        ]
+      }
+    ]
   }
 ]
