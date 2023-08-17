@@ -3243,5 +3243,204 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Dead Simple (MAP07)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 447,
+            "y": 492
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 447,
+            "y": 302
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 740,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 779,
+            "y": 352
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 588,
+            "y": 492
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 588,
+            "y": 302
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 779,
+            "y": 445
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 380,
+            "y": 395
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Partial Invisibility 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 740,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Partial Invisibility 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 270,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Partial Invisibility 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 270,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Dead Simple (MAP07)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m07",
+            "x": 518,
+            "y": 372
+          }
+        ]
+      }
+    ]
   }
 ]
