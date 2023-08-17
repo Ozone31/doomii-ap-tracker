@@ -3833,5 +3833,268 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Pit (MAP09)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 559,
+            "y": 468
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 437,
+            "y": 540
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 469,
+            "y": 591
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 189,
+            "y": 505
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Berserk 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 530,
+            "y": 336
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 237,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 680,
+            "y": 321
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 320,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 317,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Yellow Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 60,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Backpack",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 155,
+            "y": 110
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Computer Area Map",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 161,
+            "y": 199
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Supercharge 2",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 553,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Mega Armor 2",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 540,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Berserk 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Berserk 3",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 540,
+            "y": 46
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Pit (MAP09)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m09",
+            "x": 740,
+            "y": 780
+          }
+        ]
+      }
+    ]
   }
 ]
