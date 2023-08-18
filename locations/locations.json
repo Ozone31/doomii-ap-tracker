@@ -4949,5 +4949,364 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Downtown (MAP13)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 447,
+            "y": 416
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 126,
+            "y": 682
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 342,
+            "y": 582
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 150,
+            "y": 722
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 315,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 423,
+            "y": 573
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 25,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 50,
+            "y": 145
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 315,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 76,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 199,
+            "y": 442
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 389,
+            "y": 19
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Partial Invisibility 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 262,
+            "y": 19
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Partial Invisibility 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 110,
+            "y": 19
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Computer Area Map",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 412,
+            "y": 559
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Yellow Keycard",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 460,
+            "y": 639
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Berserk 2",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 496,
+            "y": 673
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Chainsaw",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 212,
+            "y": 525
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Invulnerability",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 198,
+            "y": 563
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Red Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 315,
+            "y": 182
+          }
+        ]
+      },
+      {
+        "name": "Berserk 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Berserk 3",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 64,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Downtown (MAP13)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m13",
+            "x": 57,
+            "y": 289
+          }
+        ]
+      }
+    ]
   }
 ]
