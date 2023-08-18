@@ -91,7 +91,7 @@
     },
     {
         "name": "m15",
-        "location_size": 12,
+        "location_size": 10,
         "location_border_thickness": 1,
         "img": "images/maps/m15_map.png"
     },
