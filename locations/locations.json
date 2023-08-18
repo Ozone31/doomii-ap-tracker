@@ -5308,5 +5308,188 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Inmost Dens (MAP14)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 105,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 550,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 174,
+            "y": 244
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 175,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 543,
+            "y": 258
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 328,
+            "y": 47
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Red Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 340,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 71,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Blue Skull Key",
+            "name": "Requires Red Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 142,
+            "y": 706
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Partial Invisibility",
+            "name": "Requires Red Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 268,
+            "y": 570
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Inmost Dens (MAP14)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m14",
+            "x": 754,
+            "y": 463
+          }
+        ]
+      }
+    ]
   }
 ]
