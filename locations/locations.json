@@ -7261,5 +7261,156 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Nirvana (MAP21)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 800,
+            "y": 660
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 260,
+            "y": 637
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 678,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 910,
+            "y": 553
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 910,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Invulnerability",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 95,
+            "y": 328
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Blue Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 77,
+            "y": 53
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Red Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 615,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Nirvana (MAP21)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m21",
+            "x": 803,
+            "y": 179
+          }
+        ]
+      }
+    ]
   }
 ]
