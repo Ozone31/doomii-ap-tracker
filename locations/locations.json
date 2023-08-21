@@ -6456,5 +6456,300 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Courtyard (MAP18)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 388,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 692,
+            "y": 452
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 185,
+            "y": 565
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 650,
+            "y": 365
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 783,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 645,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 233,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Partial Invisibility 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 217,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 174,
+            "y": 497
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 320,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 263,
+            "y": 308
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 580,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 115,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 60,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Computer Area Map",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 844,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 263,
+            "y": 230
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Blue Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 737,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Courtyard (MAP18)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m18",
+            "x": 131,
+            "y": 475
+          }
+        ]
+      }
+    ]
   }
 ]
