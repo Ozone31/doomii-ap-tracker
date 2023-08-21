@@ -5491,5 +5491,380 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Industrial Zone (MAP15)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 166,
+            "y": 238
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 128,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 134,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 262,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 276,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 245,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 221,
+            "y": 445
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 221,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 282,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Yellow Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 266,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 73,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 436,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 154,
+            "y": 238
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Mega Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 276,
+            "y": 233
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Plasma Gun",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 53,
+            "y": 532
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Partial Invisibility 2",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 110,
+            "y": 617
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Computer Area Map",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 35,
+            "y": 597
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Backpack 2",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 110,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Chainsaw",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 283,
+            "y": 650
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Megasphere",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 357,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Berserk 2",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 356,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Blue Keycard",
+            "name": "Requires Yellow Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 27,
+            "y": 567
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Industrial Zone (MAP15)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m15",
+            "x": 243,
+            "y": 720
+          }
+        ]
+      }
+    ]
   }
 ]
