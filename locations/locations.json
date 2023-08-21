@@ -7014,5 +7014,252 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Gotcha! (MAP20)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 390,
+            "y": 477
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 369,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 339,
+            "y": 477
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 493,
+            "y": 103
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 228,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 320,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 360,
+            "y": 688
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 317,
+            "y": 581
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Mega Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 434,
+            "y": 122
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 538,
+            "y": 457
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Supercharge 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 245,
+            "y": 614
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Supercharge 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 625,
+            "y": 463
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 108,
+            "y": 213
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Supercharge 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 140,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Gotcha! (MAP20)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m20",
+            "x": 563,
+            "y": 226
+          }
+        ]
+      }
+    ]
   }
 ]
