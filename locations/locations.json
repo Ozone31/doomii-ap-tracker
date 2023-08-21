@@ -6161,5 +6161,300 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tenements (MAP17)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 452,
+            "y": 540
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 155,
+            "y": 607
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Armor",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 358,
+            "y": 524
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Blue Keycard",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 552,
+            "y": 354
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Chaingun",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 573,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Mega Armor",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 742,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Armor 2",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 418,
+            "y": 398
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Berserk",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 537,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Supercharge 2",
+            "name": "Requires Red Keycard & Either Blue Keycard/Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 139,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Yellow Skull Key",
+            "name": "Requires Red Keycard & Either Blue Keycard/Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 247,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Rocket Launcher",
+            "name": "Requires Red Keycard & Either Blue Keycard/Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 247,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Partial Invisibility",
+            "name": "Requires Red Keycard & Either Blue Keycard/Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 118,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Backpack",
+            "name": "Requires Red Keycard & Either Blue Keycard/Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 164,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Supercharge",
+            "name": "Requires Red Keycard & Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 418,
+            "y": 413
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/BFG9000",
+            "name": "Requires Red Keycard & Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 452,
+            "y": 22
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Plasma Gun",
+            "name": "Requires Red Keycard & Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 595,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Megasphere",
+            "name": "Requires Red Keycard & Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 576,
+            "y": 297
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Tenements (MAP17)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m17",
+            "x": 750,
+            "y": 191
+          }
+        ]
+      }
+    ]
   }
 ]
