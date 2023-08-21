@@ -5866,5 +5866,300 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Suburbs (MAP16)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 498,
+            "y": 545
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 501,
+            "y": 482
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 407,
+            "y": 368
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 495,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 248,
+            "y": 205
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 248,
+            "y": 221
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 630,
+            "y": 427
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 359,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 268,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Blue Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 222,
+            "y": 719
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 115,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 160,
+            "y": 466
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Plasma Gun",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 617,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Plasma Gun 2",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 637,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Plasma Gun 3",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 637,
+            "y": 568
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Plasma Gun 4",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 617,
+            "y": 568
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Red Skull Key",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 311,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Suburbs (MAP16)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m16",
+            "x": 708,
+            "y": 19
+          }
+        ]
+      }
+    ]
   }
 ]
