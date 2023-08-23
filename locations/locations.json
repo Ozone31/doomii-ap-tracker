@@ -7563,5 +7563,204 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Barrels o Fun (MAP23)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 204,
+            "y": 329
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 345,
+            "y": 745
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 290,
+            "y": 703
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Computer Area Map",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 330,
+            "y": 703
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 310,
+            "y": 545
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 257,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 257,
+            "y": 269
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 555,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 276,
+            "y": 745
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 310,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 151,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Barrels o Fun (MAP23)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m23",
+            "x": 445,
+            "y": 686
+          }
+        ]
+      }
+    ]
   }
 ]
