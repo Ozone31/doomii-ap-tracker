@@ -7762,5 +7762,252 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Chasm (MAP24)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 266,
+            "y": 423
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 437,
+            "y": 676
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 151,
+            "y": 289
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 560,
+            "y": 708
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Blue Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 530,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 255,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 741,
+            "y": 335
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Berserk 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 160,
+            "y": 90
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 82,
+            "y": 128
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 238,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 359,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 548,
+            "y": 540
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 82,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "name": "Megasphere 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Megasphere 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 515,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Chasm (MAP24)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m24",
+            "x": 488,
+            "y": 25
+          }
+        ]
+      }
+    ]
   }
 ]
