@@ -8009,5 +8009,204 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bloodfalls (MAP25)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 95,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 108,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 222,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 222,
+            "y": 406
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Blue Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 50,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 222,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 430,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "BFG9000 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/BFG9000 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 273,
+            "y": 317
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 335,
+            "y": 293
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Partial Invisibility",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 304,
+            "y": 637
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/BFG9000",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 336,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Bloodfalls (MAP25)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m25",
+            "x": 326,
+            "y": 733
+          }
+        ]
+      }
+    ]
   }
 ]
