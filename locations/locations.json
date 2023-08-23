@@ -2483,7 +2483,7 @@
         "sections": [
           {
             "ref": "HellOnEarth/Underhalls (MAP02)/Blue Keycard",
-            "name": "Required Red Keycard"
+            "name": "Requires Red Keycard"
           }
         ],
         "map_locations": [
@@ -8204,6 +8204,221 @@
             "map": "m25",
             "x": 326,
             "y": 733
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Abandoned Mines (MAP26)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 470,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 340,
+            "y": 475
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 636,
+            "y": 577
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 585,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 390,
+            "y": 503
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 600,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Red Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Red Keycard",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 600,
+            "y": 112
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 568,
+            "y": 403
+          }
+        ]
+      },
+      {
+        "name": "Blue Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Blue Keycard",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 28,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Mega Armor",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 185,
+            "y": 141
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Supercharge",
+            "name": "Requires Red Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 468,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Yellow Keycard",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Yellow Keycard",
+            "name": "Requires Blue Keycard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 923,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Abandoned Mines (MAP26)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m26",
+            "x": 400,
+            "y": 40
           }
         ]
       }
