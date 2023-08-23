@@ -8423,5 +8423,508 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Monster Condo (MAP27)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 325,
+            "y": 525
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 508,
+            "y": 672
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 558,
+            "y": 707
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 622,
+            "y": 675
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 650,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 248,
+            "y": 465
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 248,
+            "y": 445
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Partial Invisibility 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 637,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 490,
+            "y": 137
+          }
+        ]
+      },
+      {
+        "name": "Armor 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Armor 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 530,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 228,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 655,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 470,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Backpack 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Backpack 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 503,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Backpack 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Backpack 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 532,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 622,
+            "y": 718
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Chainsaw",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 610,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 277,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Red Skull Key",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 550,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Supercharge 2",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 539,
+            "y": 366
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Blue Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 156,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Supercharge 3",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 90,
+            "y": 130
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Computer Area Map",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 90,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Berserk",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 90,
+            "y": 165
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Supercharge 4",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 85,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 5",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Supercharge 5",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 18,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "Computer Area Map 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Computer Area Map 2",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 18,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Berserk 2",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 18,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Partial Invisibility 3",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 140,
+            "y": 718
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Invulnerability 3",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 280,
+            "y": 752
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Monster Condo (MAP27)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m27",
+            "x": 303,
+            "y": 109
+          }
+        ]
+      }
+    ]
   }
 ]
