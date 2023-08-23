@@ -7412,5 +7412,156 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Catacombs (MAP22)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 220,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "Blue Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Blue Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 600,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 260,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 210,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 235,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 138,
+            "y": 402
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 113,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Red Skull Key",
+            "name": "Requires Blue Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 738,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Catacombs (MAP22)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m22",
+            "x": 371,
+            "y": 774
+          }
+        ]
+      }
+    ]
   }
 ]
