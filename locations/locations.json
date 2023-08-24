@@ -9484,5 +9484,316 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Icon of Sin (MAP30)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 110,
+            "y": 476
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Supercharge 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 620,
+            "y": 456
+          }
+        ]
+      },
+      {
+        "name": "Supercharge 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Supercharge 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 339,
+            "y": 552
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 410,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 410,
+            "y": 285
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Invulnerability 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 347,
+            "y": 285
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Invulnerability 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 347,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 342,
+            "y": 728
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 357,
+            "y": 728
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Chainsaw",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 372,
+            "y": 728
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 387,
+            "y": 728
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 402,
+            "y": 728
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 357,
+            "y": 743
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 387,
+            "y": 743
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 372,
+            "y": 755
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 372,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Megasphere 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Megasphere 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 335,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 425,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Icon of Sin (MAP30)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m30",
+            "x": 380,
+            "y": 30
+          }
+        ]
+      }
+    ]
   }
 ]
