@@ -9795,5 +9795,252 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Wolfenstein2 (MAP31)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 390,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 590,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 42,
+            "y": 185
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 195,
+            "y": 660
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 467,
+            "y": 740
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 925,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "name": "Partial Invisibility",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Partial Invisibility",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 511,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 884,
+            "y": 565
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 877,
+            "y": 642
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 893,
+            "y": 642
+          }
+        ]
+      },
+      {
+        "name": "Backpack 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 893,
+            "y": 658
+          }
+        ]
+      },
+      {
+        "name": "Backpack 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 877,
+            "y": 658
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 845,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 105,
+            "y": 47
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m31",
+            "x": 350,
+            "y": 550
+          }
+        ]
+      }
+    ]
   }
 ]
