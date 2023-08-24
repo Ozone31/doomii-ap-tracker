@@ -8926,5 +8926,380 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Spirit World (MAP28)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 180,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Chainsaw",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 260,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 277,
+            "y": 735
+          }
+        ]
+      },
+      {
+        "name": "Yellow Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Yellow Skull Key",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 340,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 405,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 306,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 138,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 480,
+            "y": 146
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 494,
+            "y": 146
+          }
+        ]
+      },
+      {
+        "name": "Backpack 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Backpack 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 480,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Backpack 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Backpack 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 494,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 490,
+            "y": 23
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 155,
+            "y": 655
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Invulnerability 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 580,
+            "y": 630
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Invulnerability 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 620,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 412,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 11,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Megasphere 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Megasphere 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 464,
+            "y": 725
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 4",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Invulnerability 4",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 464,
+            "y": 745
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability 5",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Invulnerability 5",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 535,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 165,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Red Skull Key",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Red Skull Key",
+            "name": "Requires Yellow Skull Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 317,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Spirit World (MAP28)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m28",
+            "x": 75,
+            "y": 638
+          }
+        ]
+      }
+    ]
   }
 ]
