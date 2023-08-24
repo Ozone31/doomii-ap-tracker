@@ -10042,5 +10042,188 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Grosse2 (MAP32)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 15,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Rocket Launcher",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 274,
+            "y": 720
+          }
+        ]
+      },
+      {
+        "name": "Invulnerability",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Invulnerability",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 425,
+            "y": 416
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 335,
+            "y": 308
+          }
+        ]
+      },
+      {
+        "name": "BFG9000",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/BFG9000",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 212,
+            "y": 308
+          }
+        ]
+      },
+      {
+        "name": "Megasphere",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Megasphere",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 335,
+            "y": 526
+          }
+        ]
+      },
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 213,
+            "y": 526
+          }
+        ]
+      },
+      {
+        "name": "Chaingun 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 199,
+            "y": 526
+          }
+        ]
+      },
+      {
+        "name": "Chaingun 3",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun 3",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 227,
+            "y": 526
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 274,
+            "y": 740
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/Grosse2 (MAP32)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m32",
+            "x": 274,
+            "y": 51
+          }
+        ]
+      }
+    ]
   }
 ]
