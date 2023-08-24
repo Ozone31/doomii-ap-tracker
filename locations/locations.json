@@ -9301,5 +9301,188 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Living End (MAP29)",
+    "chest_unopened_img": "/images/items/cacodemon.png",
+    "chest_opened_img": "/images/items/cacodemon_dead.png",
+    "children": [
+      {
+        "name": "Chaingun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Chaingun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 308,
+            "y": 736
+          }
+        ]
+      },
+      {
+        "name": "Plasma Gun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Plasma Gun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 126,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Backpack",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Backpack",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 508,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "Super Shotgun",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Super Shotgun",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 267,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Mega Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Mega Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 238,
+            "y": 205
+          }
+        ]
+      },
+      {
+        "name": "Armor",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Armor",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 259,
+            "y": 687
+          }
+        ]
+      },
+      {
+        "name": "Backpack 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Backpack 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 107,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Supercharge",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Supercharge",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 163,
+            "y": 363
+          }
+        ]
+      },
+      {
+        "name": "Berserk",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Berserk",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 160,
+            "y": 715
+          }
+        ]
+      },
+      {
+        "name": "Berserk 2",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Berserk 2",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 204,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "sections": [
+          {
+            "ref": "HellOnEarth/The Living End (MAP29)/Exit",
+            "name": "Level Completed"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "m29",
+            "x": 340,
+            "y": 400
+          }
+        ]
+      }
+    ]
   }
 ]
