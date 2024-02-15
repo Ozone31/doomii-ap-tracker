@@ -1,7 +1,7 @@
 ﻿{
     "name": "DOOM II",
     "game_name": "DOOM II",
-    "package_version": "0.0.1.0",
+    "package_version": "0.0.1.1",
     "package_uid": "ap_doomii",
     "author": "Ozone",
     "variants": {
