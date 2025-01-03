@@ -6,7 +6,11 @@
     "author": "Ozone",
     "variants": {
         "standard": {
-            "display_name": "Map Tracker",
+            "display_name": "Map + Item Tracker",
+            "flags": ["ap"]
+        },
+		"var_maponly": {
+            "display_name": "Map Only (Items in Broadcast View)",
             "flags": ["ap"]
         }
     },
