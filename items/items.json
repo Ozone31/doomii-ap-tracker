@@ -851,5 +851,25 @@
         "codes": "difficulty,difficulty_n"
       }
     ]
+  },
+  {
+    "name": "Logic",
+    "type": "progressive",
+    "loop": false,
+    "codes": "logic",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/logic_off.png",
+        "name": "Game Logic - Off",
+        "codes": "logic_off"
+      },
+      {
+        "img": "images/settings/logic_on.png",
+        "name": "Game Logic - On",
+        "codes": "logic_on",
+        "inherit_codes": false
+      }
+    ]
   }
 ]
