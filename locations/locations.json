@@ -72,50 +72,51 @@
       },
       {
         "name": "The Gantlet (MAP03)",
+        "access_rules": [ "logic_on, $m03_logical_access","logic_off, m03_access" ],
         "sections": [
           {
             "name": "Mega Armor",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor 2",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m03_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "[m03_blue], m03_access" ]
+            "access_rules": [ "[m03_blue]", "promoveson" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "[m03_blue], m03_access" ]
+            "access_rules": [ "[m03_blue]", "promoveson" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "[m03_blue], m03_access, m03_red" ],
+            "access_rules": [ "[m03_blue], m03_red", "promoveson, m03_red" ],
             "hosted_item": "m03_complete"
           }
         ],
@@ -129,14 +130,15 @@
       },
       {
         "name": "The Focus (MAP04)",
+        "access_rules": [ "logic_on, $m04_logical_access", "logic_off, m04_access"],
         "sections": [
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m04_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m04_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
@@ -162,46 +164,47 @@
       },
       {
         "name": "The Waste Tunnels (MAP05)",
+        "access_rules": [ "logic_on, $m05_logical_access", "logic_off, m05_access" ],
         "sections": [
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m05_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
@@ -227,34 +230,35 @@
       },
       {
         "name": "The Crusher (MAP06)",
+        "access_rules": [ "logic_on, $m06_logical_access", "logic_off, m06_access" ],
         "sections": [
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard 2",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard 3",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m06_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
@@ -300,54 +304,55 @@
       },
       {
         "name": "Dead Simple (MAP07)",
+        "access_rules": [ "logic_on, $m07_logical_access", "logic_off, m07_access" ],
         "sections": [
           {
             "name": "Megasphere",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 2",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 3",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 4",
-            "access_rules": [ "m07_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m07_access" ],
+            "access_rules": [ "" ],
             "hosted_item": "m07_complete"
           }
         ],
@@ -361,90 +366,91 @@
       },
       {
         "name": "Tricks and Traps (MAP08)",
+        "access_rules": [ "logic_on, $m08_logical_access", "logic_off, m08_access" ],
         "sections": [
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 3",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 4",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 3",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 4",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chainsaw",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 5",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m08_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
@@ -470,42 +476,43 @@
       },
       {
         "name": "The Pit (MAP09)",
+        "access_rules": [ "logic_on, $m09_logical_access", "logic_off, m09_access" ],
         "sections": [
           {
             "name": "Berserk",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 2",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m09_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Keycard",
@@ -547,86 +554,87 @@
       },
       {
         "name": "Refueling Base (MAP10)",
+        "access_rules": [ "logic_on, $m10_logical_access", "logic_off, m10_access" ],
         "sections": [
           {
             "name": "BFG9000",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 2",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chainsaw",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Keycard",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m10_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
@@ -644,38 +652,39 @@
       },
       {
         "name": "Circle of Death (MAP11)",
+        "access_rules": [ "logic_on, $m11_logical_access", "logic_off, m11_access" ],
         "sections": [
           {
             "name": "Red Keycard",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m11_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
@@ -717,54 +726,55 @@
       },
       {
         "name": "The Factory (MAP12)",
+        "access_rules": [ "logic_on, $m12_logical_access", "logic_off, m12_access" ],
         "sections": [
           {
             "name": "Shotgun",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 2",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Keycard",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 3",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m12_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
@@ -794,66 +804,67 @@
       },
       {
         "name": "Downtown (MAP13)",
+        "access_rules": [ "logic_on, $m13_logical_access", "logic_off, m13_access" ],
         "sections": [
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 2",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 3",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Computer Area Map",
-            "access_rules": [ "m13_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Keycard",
@@ -895,38 +906,39 @@
       },
       {
         "name": "The Inmost Dens (MAP14)",
+        "access_rules": [ "logic_on, $m14_logical_access", "logic_off, m14_access" ],
         "sections": [
           {
             "name": "Shotgun",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m14_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
@@ -952,62 +964,63 @@
       },
       {
         "name": "Industrial Zone (MAP15)",
+        "access_rules": [ "logic_on, $m15_logical_access", "logic_off, m15_access" ],
         "sections": [
           {
             "name": "Berserk",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Keycard",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor 2",
-            "access_rules": [ "m15_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
@@ -1057,54 +1070,55 @@
       },
       {
         "name": "Suburbs (MAP16)",
+        "access_rules": [ "logic_on, $m16_logical_access", "logic_off, m16_access" ],
         "sections": [
           {
             "name": "Megasphere",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m16_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
@@ -1142,14 +1156,15 @@
       },
       {
         "name": "Tenements (MAP17)",
+        "access_rules": [ "logic_on, $m17_logical_access", "logic_off, m17_access" ],
         "sections": [
           {
             "name": "Shotgun",
-            "access_rules": [ "m17_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "m17_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
@@ -1227,70 +1242,71 @@
       },
       {
         "name": "The Courtyard (MAP18)",
+        "access_rules": [ "logic_on, $m18_logical_access", "logic_off, m18_access" ],
         "sections": [
           {
             "name": "Shotgun",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 2",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Computer Area Map",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m18_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
@@ -1312,66 +1328,67 @@
       },
       {
         "name": "The Citadel (MAP19)",
+        "access_rules": [ "logic_on, $m19_logical_access", "logic_off, m19_access" ],
         "sections": [
           {
             "name": "Armor",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Computer Area Map",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m19_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
@@ -1389,66 +1406,67 @@
       },
       {
         "name": "Gotcha! (MAP20)",
+        "access_rules": [ "logic_on, $m20_logical_access", "logic_off, m20_access" ],
         "sections": [
           {
             "name": "Mega Armor",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor 2",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 3",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 4",
-            "access_rules": [ "m20_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m20_access" ],
+            "access_rules": [ "" ],
             "hosted_item": "m20_complete"
           }
         ],
@@ -1462,26 +1480,27 @@
       },
       {
         "name": "Nirvana (MAP21)",
+        "access_rules": [ "logic_on, $m21_logical_access", "logic_off, m21_access" ],
         "sections": [
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m21_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m21_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m21_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m21_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m21_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
@@ -1511,34 +1530,35 @@
       },
       {
         "name": "The Catacombs (MAP22)",
+        "access_rules": [ "logic_on, $m22_logical_access", "logic_off, m22_access" ],
         "sections": [
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m22_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
@@ -1560,50 +1580,51 @@
       },
       {
         "name": "Barrels o Fun (MAP23)",
+        "access_rules": [ "logic_on, $m23_logical_access", "logic_off, m23_access" ],
         "sections": [
           {
             "name": "Shotgun",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Computer Area Map",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m23_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
@@ -1621,62 +1642,63 @@
       },
       {
         "name": "The Chasm (MAP24)",
+        "access_rules": [ "logic_on, $m24_logical_access", "logic_off, m24_access" ],
         "sections": [
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 2",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere 2",
-            "access_rules": [ "m24_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
@@ -1694,42 +1716,43 @@
       },
       {
         "name": "Bloodfalls (MAP25)",
+        "access_rules": [ "logic_on, $m25_logical_access", "logic_off, m25_access" ],
         "sections": [
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Skull Key",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000 2",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m25_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
@@ -1755,38 +1778,39 @@
       },
       {
         "name": "The Abandoned Mines (MAP26)",
+        "access_rules": [ "logic_on, $m26_logical_access", "logic_off, m26_access" ],
         "sections": [
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Keycard",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m26_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Blue Keycard",
@@ -1820,78 +1844,79 @@
       },
       {
         "name": "Monster Condo (MAP27)",
+        "access_rules": [ "logic_on, $m27_logical_access", "logic_off, m27_access" ],
         "sections": [
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility 2",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor 2",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 3",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 4",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chainsaw",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m27_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
@@ -1957,90 +1982,91 @@
       },
       {
         "name": "The Spirit World (MAP28)",
+        "access_rules": [ "logic_on, $m28_logical_access", "logic_off, m28_access" ],
         "sections": [
           {
             "name": "Armor",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chainsaw",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Yellow Skull Key",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 3",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 4",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 3",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere 2",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 4",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 5",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m28_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Red Skull Key",
@@ -2062,50 +2088,51 @@
       },
       {
         "name": "The Living End (MAP29)",
+        "access_rules": [ "logic_on, $m29_logical_access", "logic_off, m29_access" ],
         "sections": [
           {
             "name": "Chaingun",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Mega Armor",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Armor",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk 2",
-            "access_rules": [ "m29_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m29_access" ],
+            "access_rules": [ "" ],
             "hosted_item": "m29_complete"
           }
         ],
@@ -2119,82 +2146,83 @@
       },
       {
         "name": "Icon of Sin (MAP30)",
+        "access_rules": [ "logic_on, $m30_logical_access", "logic_off, m30_access" ],
         "sections": [
           {
             "name": "Supercharge",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 2",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge 3",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 2",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 3",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability 4",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chainsaw",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere 2",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m30_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m30_access, rocketlauncher" ],
+            "access_rules": [ ", rocketlauncher" ],
             "hosted_item": "m30_complete"
           }
         ],
@@ -2208,66 +2236,67 @@
       },
       {
         "name": "Wolfenstein2 (MAP31)",
+        "access_rules": [ "logic_on, $m31_logical_access", "logic_off, m31_access" ],
         "sections": [
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Shotgun",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Supercharge",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Partial Invisibility",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 2",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 3",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Backpack 4",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m31_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m31_access" ],
+            "access_rules": [ "" ],
             "hosted_item": "m31_complete"
           }
         ],
@@ -2281,50 +2310,51 @@
       },
       {
         "name": "Grosse2 (MAP32)",
+        "access_rules": [ "logic_on, $m32_logical_access", "logic_off, m32_access" ],
         "sections": [
           {
             "name": "Plasma Gun",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Rocket Launcher",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Invulnerability",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Super Shotgun",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "BFG9000",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Megasphere",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun 2",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Chaingun 3",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Berserk",
-            "access_rules": [ "m32_access" ]
+            "access_rules": [ "" ]
           },
           {
             "name": "Exit",
-            "access_rules": [ "m32_access" ],
+            "access_rules": [ "" ],
             "hosted_item": "m32_complete"
           }
         ],
@@ -2614,10 +2644,10 @@
         ]
       },
       {
-        "name": "Mega Armor 2",
+        "name": "Mega Armor",
         "sections": [
           {
-            "ref": "HellOnEarth/The Gantlet (MAP03)/Mega Armor 2",
+            "ref": "HellOnEarth/The Gantlet (MAP03)/Mega Armor",
             "name": "Item"
           }
         ],
