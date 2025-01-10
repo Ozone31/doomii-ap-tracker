@@ -1,7 +1,7 @@
 ﻿{
     "name": "DOOM II",
     "game_name": "DOOM II",
-    "package_version": "1.0.0",
+    "package_version": "1.0.2",
     "package_uid": "ap_doomii",
     "author": "Ozone",
     "variants": {
@@ -14,5 +14,5 @@
             "flags": ["ap"]
         }
     },
-    "versions_url": ""
+    "versions_url": "https://raw.githubusercontent.com/Ozone31/doomii-ap-tracker/refs/heads/versions/versions.json"
 }
