@@ -1,0 +1,13 @@
+{
+	"versions": [
+		{
+			"package_version": "1.0.1",
+			"download_url": "https://codeload.github.com/Ozone31/doomii--ap-tracker/zip/refs/tags/v1.0.1",
+			"sha256": "a8404d10229dab8bf782e53b9010eee466482c66e0c6ee87f4c5133f5dce5089",
+			"changelog": [
+				"Compressed images for smaller file sizes (courtesy of nivomi)",
+				"Map Only view added to the tracker (courtesy of SushiKishi)"
+			]
+		}
+	]
+}
