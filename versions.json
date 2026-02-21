@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.1.0",
+			"download_url": "https://codeload.github.com/Ozone31/doomii--ap-tracker/zip/refs/tags/v1.1.0",
+			"sha256": "fd51714ad8a18c147fdc17a17f2d4e76792135979d745aacc1d0368310675c80",
+			"changelog": [
+				"Added auto map switching",
+				"Updated names of Wolfenstein and Grosse maps"
+			]
+		},
+		{
 			"package_version": "1.0.2",
 			"download_url": "https://codeload.github.com/Ozone31/doomii--ap-tracker/zip/refs/tags/v1.0.2",
 			"sha256": "086ee729c711d9ee0bace554406df90ddff2f4f2772cb63abaef20c90783b8ff",
