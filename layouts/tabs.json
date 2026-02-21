@@ -341,7 +341,7 @@
                       }
                     },
                     {
-                      "title": "Wolfenstein2",
+                      "title": "Wolfenstein",
                       "icon": "images/levels/m31.png",
                       "content": {
                         "type": "map",
@@ -351,7 +351,7 @@
                       }
                     },
                     {
-                      "title": "Grosse2",
+                      "title": "Grosse",
                       "icon": "images/levels/m32.png",
                       "content": {
                         "type": "map",

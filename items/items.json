@@ -573,13 +573,13 @@
     "codes": "m30_complete"
   },
   {
-    "name": "Wolfenstein2 (MAP31) - Complete",
+    "name": "Wolfenstein (MAP31) - Complete",
     "type": "toggle",
     "img": "/images/items/levelcomplete.png",
     "codes": "m31_complete"
   },
   {
-    "name": "Grosse2 (MAP32) - Complete",
+    "name": "Grosse (MAP32) - Complete",
     "type": "toggle",
     "img": "/images/items/levelcomplete.png",
     "codes": "m32_complete"
@@ -768,13 +768,13 @@
     "codes": "m30_access"
   },
   {
-    "name": "Wolfenstein2 (MAP31)",
+    "name": "Wolfenstein (MAP31)",
     "type": "toggle",
     "img": "/images/levels/m31.png",
     "codes": "m31_access"
   },
   {
-    "name": "Grosse2 (MAP32)",
+    "name": "Grosse (MAP32)",
     "type": "toggle",
     "img": "/images/levels/m32.png",
     "codes": "m32_access"
@@ -868,6 +868,27 @@
         "img": "images/settings/logic_on.png",
         "name": "Game Logic - On",
         "codes": "logic_on",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Auto Map Switching",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/settings/automap_on.png",
+        "name": "Auto Map Switching - On",
+        "codes": "automap,automap_on",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/settings/automap_off.png",
+        "name": "Auto Map Switching - Off",
+        "codes": "automap,automap_off",
         "inherit_codes": false
       }
     ]

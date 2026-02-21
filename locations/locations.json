@@ -2235,7 +2235,7 @@
         ]
       },
       {
-        "name": "Wolfenstein2 (MAP31)",
+        "name": "Wolfenstein (MAP31)",
         "access_rules": [ "logic_on, $m31_logical_access", "logic_off, m31_access" ],
         "sections": [
           {
@@ -2309,7 +2309,7 @@
         ]
       },
       {
-        "name": "Grosse2 (MAP32)",
+        "name": "Grosse (MAP32)",
         "access_rules": [ "logic_on, $m32_logical_access", "logic_off, m32_access" ],
         "sections": [
           {
@@ -9827,7 +9827,7 @@
     ]
   },
   {
-    "name": "Wolfenstein2 (MAP31)",
+    "name": "Wolfenstein (MAP31)",
     "chest_unopened_img": "/images/items/cacodemon.png",
     "chest_opened_img": "/images/items/cacodemon_dead.png",
     "children": [
@@ -9835,7 +9835,7 @@
         "name": "Rocket Launcher",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Rocket Launcher",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Rocket Launcher",
             "name": "Item"
           }
         ],
@@ -9851,7 +9851,7 @@
         "name": "Shotgun",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Shotgun",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Shotgun",
             "name": "Item"
           }
         ],
@@ -9867,7 +9867,7 @@
         "name": "Berserk",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Berserk",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Berserk",
             "name": "Item"
           }
         ],
@@ -9883,7 +9883,7 @@
         "name": "Supercharge",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Supercharge",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Supercharge",
             "name": "Item"
           }
         ],
@@ -9899,7 +9899,7 @@
         "name": "Chaingun",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Chaingun",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Chaingun",
             "name": "Item"
           }
         ],
@@ -9915,7 +9915,7 @@
         "name": "Super Shotgun",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Super Shotgun",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Super Shotgun",
             "name": "Item"
           }
         ],
@@ -9931,7 +9931,7 @@
         "name": "Partial Invisibility",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Partial Invisibility",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Partial Invisibility",
             "name": "Item"
           }
         ],
@@ -9947,7 +9947,7 @@
         "name": "Megasphere",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Megasphere",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Megasphere",
             "name": "Item"
           }
         ],
@@ -9963,7 +9963,7 @@
         "name": "Backpack",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Backpack",
             "name": "Item"
           }
         ],
@@ -9979,7 +9979,7 @@
         "name": "Backpack 2",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 2",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Backpack 2",
             "name": "Item"
           }
         ],
@@ -9995,7 +9995,7 @@
         "name": "Backpack 3",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 3",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Backpack 3",
             "name": "Item"
           }
         ],
@@ -10011,7 +10011,7 @@
         "name": "Backpack 4",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Backpack 4",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Backpack 4",
             "name": "Item"
           }
         ],
@@ -10027,7 +10027,7 @@
         "name": "BFG9000",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/BFG9000",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/BFG9000",
             "name": "Item"
           }
         ],
@@ -10043,7 +10043,7 @@
         "name": "Plasma Gun",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Plasma Gun",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Plasma Gun",
             "name": "Item"
           }
         ],
@@ -10059,7 +10059,7 @@
         "name": "Exit",
         "sections": [
           {
-            "ref": "HellOnEarth/Wolfenstein2 (MAP31)/Exit",
+            "ref": "HellOnEarth/Wolfenstein (MAP31)/Exit",
             "name": "Level Completed"
           }
         ],
@@ -10074,7 +10074,7 @@
     ]
   },
   {
-    "name": "Grosse2 (MAP32)",
+    "name": "Grosse (MAP32)",
     "chest_unopened_img": "/images/items/cacodemon.png",
     "chest_opened_img": "/images/items/cacodemon_dead.png",
     "children": [
@@ -10082,7 +10082,7 @@
         "name": "Plasma Gun",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Plasma Gun",
+            "ref": "HellOnEarth/Grosse (MAP32)/Plasma Gun",
             "name": "Item"
           }
         ],
@@ -10098,7 +10098,7 @@
         "name": "Rocket Launcher",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Rocket Launcher",
+            "ref": "HellOnEarth/Grosse (MAP32)/Rocket Launcher",
             "name": "Item"
           }
         ],
@@ -10114,7 +10114,7 @@
         "name": "Invulnerability",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Invulnerability",
+            "ref": "HellOnEarth/Grosse (MAP32)/Invulnerability",
             "name": "Item"
           }
         ],
@@ -10130,7 +10130,7 @@
         "name": "Super Shotgun",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Super Shotgun",
+            "ref": "HellOnEarth/Grosse (MAP32)/Super Shotgun",
             "name": "Item"
           }
         ],
@@ -10146,7 +10146,7 @@
         "name": "BFG9000",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/BFG9000",
+            "ref": "HellOnEarth/Grosse (MAP32)/BFG9000",
             "name": "Item"
           }
         ],
@@ -10162,7 +10162,7 @@
         "name": "Megasphere",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Megasphere",
+            "ref": "HellOnEarth/Grosse (MAP32)/Megasphere",
             "name": "Item"
           }
         ],
@@ -10178,7 +10178,7 @@
         "name": "Chaingun",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun",
+            "ref": "HellOnEarth/Grosse (MAP32)/Chaingun",
             "name": "Item"
           }
         ],
@@ -10194,7 +10194,7 @@
         "name": "Chaingun 2",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun 2",
+            "ref": "HellOnEarth/Grosse (MAP32)/Chaingun 2",
             "name": "Item"
           }
         ],
@@ -10210,7 +10210,7 @@
         "name": "Chaingun 3",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Chaingun 3",
+            "ref": "HellOnEarth/Grosse (MAP32)/Chaingun 3",
             "name": "Item"
           }
         ],
@@ -10226,7 +10226,7 @@
         "name": "Berserk",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Berserk",
+            "ref": "HellOnEarth/Grosse (MAP32)/Berserk",
             "name": "Item"
           }
         ],
@@ -10242,7 +10242,7 @@
         "name": "Exit",
         "sections": [
           {
-            "ref": "HellOnEarth/Grosse2 (MAP32)/Exit",
+            "ref": "HellOnEarth/Grosse (MAP32)/Exit",
             "name": "Level Completed"
           }
         ],

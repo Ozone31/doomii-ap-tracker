@@ -1,5 +1,6 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/map_mapping.lua")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -120,9 +121,13 @@ function onClear(slot_data)
     --print(dump_table(slot_data))
 
     if PLAYER_ID>-1 then
-        local eventId="doom1993_events_"..TEAM_NUMBER.."_"..PLAYER_ID
+        local eventId="doomii_events_"..TEAM_NUMBER.."_"..PLAYER_ID
         Archipelago:SetNotify({eventId})
         Archipelago:Get({eventId})
+
+        map_key = "<Slot"..PLAYER_ID..">Last Loaded Map"
+        Archipelago:SetNotify({map_key})
+        Archipelago:Get({map_key})
     end
 end
 
@@ -184,8 +189,21 @@ function onEventsLaunch(key, value)
     updateEvents(value)
 end
 
+function onMapChange(key, value, old)
+    print("got  " .. key .. " = " .. tostring(value) .. " (was " .. tostring(old) .. ")")
+    --print(dump_table(MAP_MAPPING[tostring(value)]))
+    if has("automap_on") then
+        tabs = MAP_MAPPING[tostring(value)]
+        for i, tab in ipairs(tabs) do
+            Tracker:UiHint("ActivateTab", tab)
+        end
+    end
+end
+
 Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
 Archipelago:AddSetReplyHandler("event handler", onEvent)
 Archipelago:AddRetrievedHandler("event launch handler", onEventsLaunch)
+Archipelago:AddSetReplyHandler("map_key", onMapChange)
+Archipelago:AddRetrievedHandler("map_key", onMapChange)

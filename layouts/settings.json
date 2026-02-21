@@ -18,8 +18,11 @@
               [
                 "deathlogic",
                 "promoves",
-                "difficulty",
-                "logic"
+                "difficulty"
+              ],
+              [
+                "logic",
+                "automap"
               ]
             ]
           }
